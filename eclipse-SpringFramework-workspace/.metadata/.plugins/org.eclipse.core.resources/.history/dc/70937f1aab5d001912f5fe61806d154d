@@ -1,0 +1,4 @@
+# game properties
+game.MaxNumber = 100
+game.GuessCount = 10
+game.MinNumber  = 10

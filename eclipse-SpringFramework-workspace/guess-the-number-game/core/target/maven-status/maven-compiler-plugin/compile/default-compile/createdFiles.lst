@@ -1,0 +1,7 @@
+core\NumberGenerator.class
+core\Game.class
+core\MessageGenerator.class
+core\MessageGeneratorImpl.class
+core\NumberGeneratorImpl.class
+core\AppConfig.class
+core\GameImpl.class

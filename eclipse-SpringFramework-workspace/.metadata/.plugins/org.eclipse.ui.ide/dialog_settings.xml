@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\LongP\Downloads\Source-code-New-Spring-5-Multi-module-Spring-Project_-Project-Setup\guess-the-number-game"/>
+		<item value="C:\Users\LongP\Downloads\Source-code-New-Spring-5-Logging-with-SLF4J-&amp;-Logback-Logback-Configuration\hello-maven"/>
+		<item value="C:\Users\LongP\Downloads\Source-code-New-Spring-5-Logging-with-SLF4J-&amp;-Logback-Using-Logging-with-Logback\hello-maven"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ModuleWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+</section>

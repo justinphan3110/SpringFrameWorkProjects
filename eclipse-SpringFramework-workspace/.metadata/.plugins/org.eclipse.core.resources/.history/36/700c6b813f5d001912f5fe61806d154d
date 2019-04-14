@@ -1,0 +1,21 @@
+package spring.numberguessgame.core.configuration;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class GameConfig {
+	// == Fields == 
+	private int MAX = 50;
+	private int guessCount = 8;
+	
+	// == Method
+	@Bean
+	public int MAX() {
+		return MAX;
+	}
+	@Bean
+	public int guessCount() {
+		return guessCount;
+	}
+}

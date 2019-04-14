@@ -1,0 +1,6 @@
+package Spring.game.core;
+
+public interface NumberGenerator {
+	int next();
+	int getMax();
+}
