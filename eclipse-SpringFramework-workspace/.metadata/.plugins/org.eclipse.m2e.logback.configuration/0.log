@@ -3016,3 +3016,769 @@ org.eclipse.core.runtime.CoreException: Variable references non-existent resourc
 2019-04-13 03:19:18,141 [Worker-38: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
 2019-04-13 03:19:18,162 [Worker-38: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
 2019-04-13 03:19:18,196 [Worker-38: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:41:01,498 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-14 00:41:07,977 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: MultiModuleProject:guess-the-number-game:0.0.1-SNAPSHOT @ C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\guess-the-number-game\pom.xml.
+2019-04-14 00:41:29,937 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-14 00:41:30,830 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-14 00:41:30,844 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-14 00:41:34,265 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:34,274 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 00:41:34,285 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:34,290 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:41:34,777 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-14 00:41:34,788 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:34,795 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:41:34,797 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:34,802 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:41:34,938 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: MultiModuleProject:guess-the-number-game:0.0.1-SNAPSHOT @ C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\guess-the-number-game\pom.xml.
+2019-04-14 00:41:36,311 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-14 00:41:36,445 [Worker-8: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-14 00:41:36,815 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-14 00:41:38,142 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:38,179 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\testmaven\src\main\resources
+2019-04-14 00:41:38,201 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:38,209 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 00:41:39,419 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:39,426 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:41:39,429 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:39,433 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:41:39,530 [Worker-0: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-14 00:41:39,542 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:39,545 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:41:39,547 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:39,552 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:41:39,818 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: testmaven:testmaven:1.0-SNAPSHOT @ C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\testmaven\pom.xml.
+2019-04-14 00:41:40,029 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:40,031 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\testmaven\src\main\resources
+2019-04-14 00:41:40,033 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:40,036 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:41:41,376 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: testmaven:testmaven:1.0-SNAPSHOT @ C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\testmaven\pom.xml.
+2019-04-14 00:41:41,458 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:41,461 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\testmaven\src\main\resources
+2019-04-14 00:41:41,463 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:41:41,467 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:43:26,981 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:43:26,988 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:43:26,994 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:43:27,000 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:44:40,943 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:44:40,948 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 00:44:40,950 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:44:40,955 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:44:50,092 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:44:50,110 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 00:44:50,116 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:44:50,120 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:44:50,224 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:44:50,232 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:44:50,233 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:44:50,247 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:45:14,466 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:45:14,468 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:45:14,469 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:45:14,473 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:45:19,243 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:45:19,247 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:45:19,249 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:45:19,252 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:45:33,109 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:45:33,165 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:45:33,221 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:46:44,236 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:46:44,276 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:46:44,313 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:47:25,044 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:47:25,051 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 00:47:25,064 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:47:25,068 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:48:04,373 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:48:04,378 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 00:48:04,388 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:48:04,391 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:48:08,093 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:48:08,131 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:48:08,218 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:48:31,472 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:48:31,475 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 00:48:31,479 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:48:31,481 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:48:32,141 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:48:32,172 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:48:32,198 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:48:41,314 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:48:41,321 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 00:48:41,323 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:48:41,328 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:48:42,252 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:48:42,291 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:48:42,343 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:55:56,562 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:55:56,566 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 00:55:56,569 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:55:56,572 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:56:06,832 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:56:06,837 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 00:56:06,840 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:56:06,842 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:56:23,374 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:56:23,383 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 00:56:23,386 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:56:23,390 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:56:24,600 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:56:24,635 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:56:24,670 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:57:15,657 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:57:15,660 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 00:57:15,663 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:57:15,666 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:57:16,853 [Worker-29: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:57:16,884 [Worker-29: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:57:16,910 [Worker-29: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:57:27,583 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:57:27,586 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 00:57:27,589 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:57:27,592 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:57:28,584 [Worker-25: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:57:28,610 [Worker-25: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:57:28,643 [Worker-25: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:57:44,579 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:57:44,607 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:57:44,631 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:58:15,960 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:58:15,964 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 00:58:15,966 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:58:15,969 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:58:17,425 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:58:17,456 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:58:17,490 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:58:31,675 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:58:31,679 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 00:58:31,683 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 00:58:31,687 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 00:58:33,170 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:58:33,196 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 00:58:33,225 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:01:48,922 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:01:48,953 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:01:48,986 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:03:40,698 [Worker-28: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:03:40,707 [Worker-28: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 01:03:40,716 [Worker-28: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:03:40,729 [Worker-28: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 01:03:40,781 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:03:40,811 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:03:40,838 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:03:51,517 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:03:51,520 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 01:03:51,521 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:03:51,523 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 01:03:53,624 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:03:53,653 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:03:53,697 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:05:15,795 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:05:15,799 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 01:05:15,802 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:05:15,806 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 01:05:18,140 [Worker-34: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:05:18,181 [Worker-34: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:05:18,217 [Worker-34: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:05:40,653 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:05:40,657 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 01:05:40,659 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:05:40,663 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 01:06:15,446 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:06:15,450 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 01:06:15,454 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:06:15,457 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 01:06:18,698 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:06:18,733 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:06:18,786 [Worker-28: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:06:32,941 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:06:32,946 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 01:06:32,948 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 01:06:32,952 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 01:06:34,003 [Worker-31: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:06:34,034 [Worker-31: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:06:34,060 [Worker-31: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:06:43,233 [Worker-35: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:06:43,255 [Worker-35: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 01:06:43,284 [Worker-35: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:00:55,755 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-14 15:01:03,712 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:01:03,721 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 15:01:03,730 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:01:03,733 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:01:03,847 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-14 15:01:03,856 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:01:03,860 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:01:03,863 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:01:03,866 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:01:03,946 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:01:03,949 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\testmaven\src\main\resources
+2019-04-14 15:01:03,951 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:01:03,954 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:02:14,201 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:02:14,255 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:02:14,325 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:03:58,240 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:03:58,262 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-14 15:03:58,264 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:03:58,273 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:04:01,214 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:04:01,262 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:04:01,333 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:05:34,750 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:05:34,757 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:05:34,760 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:05:34,763 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:05:46,914 [Worker-15: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:05:46,955 [Worker-15: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:05:47,077 [Worker-15: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:07:35,920 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:07:35,923 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:07:35,926 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:07:35,928 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:07:58,374 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:07:58,377 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:07:58,380 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:07:58,383 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:08:03,540 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:08:03,545 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:08:03,548 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:08:03,551 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:08:22,707 [Worker-5: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:08:22,738 [Worker-5: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:08:22,763 [Worker-5: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:13:14,694 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:13:14,696 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:13:14,698 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:13:14,701 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:13:48,025 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:13:48,027 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:13:48,029 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:13:48,032 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:13:50,225 [Worker-5: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:13:50,247 [Worker-5: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:13:50,276 [Worker-5: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:14:56,638 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:14:56,642 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:14:56,645 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:14:56,649 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:15:18,598 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:15:18,601 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:15:18,603 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:15:18,606 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:15:26,718 [Worker-19: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:15:26,743 [Worker-19: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:15:26,767 [Worker-19: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:17:23,081 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:17:23,084 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:17:23,085 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:17:23,087 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:17:24,308 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:17:24,347 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:17:24,368 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:19:57,285 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:19:57,288 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:19:57,295 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:19:57,298 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:19:58,940 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:19:58,947 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:19:58,952 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:19:58,958 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:20:02,085 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:20:02,110 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:20:02,139 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:22:03,726 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:22:03,729 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:22:03,732 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:22:03,735 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:22:04,877 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:22:04,903 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:22:04,923 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:23:13,678 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:23:13,682 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:23:13,685 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:23:13,687 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:23:14,925 [Worker-20: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:23:14,950 [Worker-20: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:23:14,974 [Worker-20: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:25:18,382 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:25:18,386 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:25:18,388 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:25:18,390 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:25:20,998 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:25:21,015 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:25:21,038 [Worker-22: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:25:36,955 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:25:36,959 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:25:36,962 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:25:36,965 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:25:38,728 [Worker-20: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:25:38,747 [Worker-20: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:25:38,767 [Worker-20: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:25:47,910 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:25:47,913 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:25:47,916 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:25:47,919 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:25:52,955 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:25:52,958 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 15:25:52,960 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 15:25:52,963 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 15:25:55,046 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:25:55,064 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 15:25:55,085 [Worker-3: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 21:28:18,152 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-14 21:28:24,947 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 21:28:24,963 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 21:28:24,963 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 21:28:24,963 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 21:28:25,104 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-14 21:28:25,119 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 21:28:25,119 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 21:28:25,119 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 21:28:25,119 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-14 21:28:25,197 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 21:28:25,213 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\testmaven\src\main\resources
+2019-04-14 21:28:25,213 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-14 21:28:25,213 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-14 21:29:28,709 [Worker-8: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 21:29:28,771 [Worker-8: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 21:29:28,818 [Worker-8: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier null to /core/target/classes
+2019-04-14 22:51:03,088 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-15 01:10:29,134 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-15 01:16:02,682 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:16:02,717 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 01:16:02,745 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:16:02,748 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:16:03,069 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:16:03,082 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:16:03,091 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:16:03,093 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:16:03,097 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:16:03,177 [main] ERROR o.e.m2e.actions.ExecutePomAction - Skipping launch configuration hello-Maven
+org.eclipse.core.runtime.CoreException: Variable references non-existent resource : ${project_loc:hello-maven}
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.abort(ResourceResolver.java:112) ~[na:na]
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.resolveValue(ResourceResolver.java:58) ~[na:na]
+	at org.eclipse.core.internal.variables.DynamicVariable.getValue(DynamicVariable.java:56) ~[na:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.resolve(StringSubstitutionEngine.java:269) ~[na:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.substitute(StringSubstitutionEngine.java:192) ~[na:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.performStringSubstitution(StringSubstitutionEngine.java:87) ~[na:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:592) ~[na:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:358) ~[na:na]
+	at org.eclipse.m2e.internal.launch.LaunchingUtils.substituteVar(LaunchingUtils.java:28) ~[na:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.getLaunchConfiguration(ExecutePomAction.java:290) ~[na:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:138) ~[na:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:127) ~[na:na]
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:85) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135) ~[na:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565) ~[org.eclipse.jface_3.14.0.v20180423-0714.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397) ~[org.eclipse.jface_3.14.0.v20180423-0714.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4118) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1076) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:775) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257) ~[org.eclipse.jface_3.14.0.v20180423-0714.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4118) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3931) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3534) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1170) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1059) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:667) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:597) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) ~[org.eclipse.equinox.app_1.3.500.v20171221-2204.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) ~[org.eclipse.osgi_3.13.0.v20180409-1500.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.13.0.v20180409-1500.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) ~[org.eclipse.osgi_3.13.0.v20180409-1500.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) ~[org.eclipse.osgi_3.13.0.v20180409-1500.jar:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:656) ~[org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:592) ~[org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1498) ~[org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1471) ~[org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar:na]
+2019-04-15 01:16:03,215 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: MultiModuleProject:guess-the-number-game:0.0.1-SNAPSHOT @ C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\guess-the-number-game\pom.xml.
+2019-04-15 01:16:10,726 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-15 01:16:10,787 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:16:10,916 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:16:11,901 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:16:11,937 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\testmaven\src\main\resources
+2019-04-15 01:16:11,940 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:16:11,956 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 01:16:12,626 [Worker-15: Launching guess-the-number-game (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\guess-the-number-game
+2019-04-15 01:16:12,628 [Worker-15: Launching guess-the-number-game (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-04-15 01:16:13,169 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:16:13,175 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:16:13,176 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:16:13,183 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:16:13,283 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:16:13,293 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:16:13,309 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:16:13,316 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:16:13,320 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:17:24,901 [Worker-18: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:17:57,001 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:17:57,438 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.6/lombok-1.18.6.pom
+2019-04-15 01:17:57,438 [Worker-18: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.6/lombok-1.18.6.pom
+2019-04-15 01:17:57,516 [Worker-18: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.6/lombok-1.18.6.pom
+2019-04-15 01:17:57,529 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.6/lombok-1.18.6.pom
+2019-04-15 01:17:57,587 [Worker-18: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.6/lombok-1.18.6.jar
+2019-04-15 01:17:57,593 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.6/lombok-1.18.6.jar
+2019-04-15 01:17:59,839 [Worker-18: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.6/lombok-1.18.6.jar
+2019-04-15 01:18:00,147 [Worker-17: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.6/lombok-1.18.6.jar
+2019-04-15 01:18:00,368 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-15 01:18:00,376 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:18:00,570 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:18:00,573 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:18:00,578 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:18:00,583 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:18:00,671 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:18:00,679 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:18:00,685 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:18:00,687 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:18:00,689 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:18:01,757 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.6/lombok-1.18.6-sources.jar
+2019-04-15 01:18:02,144 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:18:02,150 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 01:18:02,159 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:18:02,162 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:18:02,190 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.6/lombok-1.18.6-sources.jar
+2019-04-15 01:18:02,537 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.6
+2019-04-15 01:18:03,415 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:18:03,432 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:18:03,440 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:18:03,451 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:18:07,960 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:18:08,141 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-15 01:18:08,149 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for MultiModuleProject:core:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-15 01:18:08,153 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:18:08,433 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for MultiModuleProject:core:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-15 01:18:08,437 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:18:08,447 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:18:08,452 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:18:08,455 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:18:08,464 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:19:14,877 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:19:14,877 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:19:14,877 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:19:14,877 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:19:14,892 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:19:14,892 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\testmaven\src\main\resources
+2019-04-15 01:19:14,892 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:19:14,892 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 01:20:24,427 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:20:46,094 [Worker-18: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:20:46,218 [Worker-18: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-15 01:20:46,223 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:20:46,345 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:20:46,347 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:20:46,349 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:20:46,351 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:20:46,465 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:20:46,471 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:20:46,474 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:20:46,475 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:20:46,480 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:20:47,748 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:20:47,752 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 01:20:47,761 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:20:47,765 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:21:28,641 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:21:28,645 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:21:28,648 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:21:28,653 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:23:30,384 [Worker-19: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:23:30,528 [Worker-19: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-15 01:23:30,534 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:23:30,688 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:23:30,691 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:23:30,693 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:23:30,695 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:23:30,753 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:23:30,761 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:23:30,763 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:23:30,765 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:23:30,768 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:23:52,518 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:23:52,642 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-15 01:23:52,645 [Worker-13: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:23:52,836 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:23:52,839 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:23:52,841 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:23:52,845 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:23:52,905 [Worker-13: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:23:52,914 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:23:52,920 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:23:52,921 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:23:52,925 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:24:11,667 [Worker-11: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:24:11,837 [Worker-11: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-15 01:24:11,842 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:24:11,988 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:24:11,991 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:24:11,993 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:24:11,997 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:24:12,431 [Worker-11: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:24:12,437 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:24:12,476 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:24:12,477 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:24:12,481 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:24:14,309 [main] ERROR o.e.m2e.actions.ExecutePomAction - Skipping launch configuration hello-Maven
+org.eclipse.core.runtime.CoreException: Variable references non-existent resource : ${project_loc:hello-maven}
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.abort(ResourceResolver.java:112) ~[na:na]
+	at org.eclipse.debug.internal.core.variables.ResourceResolver.resolveValue(ResourceResolver.java:58) ~[na:na]
+	at org.eclipse.core.internal.variables.DynamicVariable.getValue(DynamicVariable.java:56) ~[na:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.resolve(StringSubstitutionEngine.java:269) ~[na:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.substitute(StringSubstitutionEngine.java:192) ~[na:na]
+	at org.eclipse.core.internal.variables.StringSubstitutionEngine.performStringSubstitution(StringSubstitutionEngine.java:87) ~[na:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:592) ~[na:na]
+	at org.eclipse.core.internal.variables.StringVariableManager.performStringSubstitution(StringVariableManager.java:358) ~[na:na]
+	at org.eclipse.m2e.internal.launch.LaunchingUtils.substituteVar(LaunchingUtils.java:28) ~[na:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.getLaunchConfiguration(ExecutePomAction.java:290) ~[na:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:138) ~[na:na]
+	at org.eclipse.m2e.actions.ExecutePomAction.launch(ExecutePomAction.java:127) ~[na:na]
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:431) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runInternal(LaunchShortcutAction.java:85) ~[na:na]
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.runWithEvent(LaunchShortcutAction.java:135) ~[na:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565) ~[org.eclipse.jface_3.14.0.v20180423-0714.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397) ~[org.eclipse.jface_3.14.0.v20180423-0714.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4118) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1076) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:775) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257) ~[org.eclipse.jface_3.14.0.v20180423-0714.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4118) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3931) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3534) ~[org.eclipse.swt.win32.win32.x86_64_3.107.0.v20180611-0422.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1170) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1059) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:667) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:597) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) ~[org.eclipse.equinox.app_1.3.500.v20171221-2204.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) ~[org.eclipse.osgi_3.13.0.v20180409-1500.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.13.0.v20180409-1500.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) ~[org.eclipse.osgi_3.13.0.v20180409-1500.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) ~[org.eclipse.osgi_3.13.0.v20180409-1500.jar:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:656) ~[org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:592) ~[org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1498) ~[org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar:na]
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1471) ~[org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar:na]
+2019-04-15 01:24:14,313 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-04-15 01:24:18,831 [Worker-15: Launching core] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core
+2019-04-15 01:24:18,832 [Worker-15: Launching core] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-04-15 01:24:18,957 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:24:18,960 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:24:18,962 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:24:18,965 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:25:00,075 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:25:00,176 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-15 01:25:00,179 [Worker-13: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:25:00,360 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:25:00,363 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:25:00,365 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:25:00,367 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:25:00,470 [Worker-13: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:25:00,475 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:25:00,477 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:25:00,478 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:25:00,481 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:25:01,614 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:25:01,619 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 01:25:01,621 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:25:01,626 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:26:52,853 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: MultiModuleProject:guess-the-number-game:0.0.1-SNAPSHOT @ C:\Users\LongP\Documents\GitHub\SpringFrameWorkProjects\eclipse-SpringFramework-workspace\guess-the-number-game\pom.xml.
+2019-04-15 01:26:53,211 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:26:53,320 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-15 01:26:53,323 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:26:54,732 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:26:54,734 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:26:54,736 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:26:54,739 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:26:54,787 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:26:54,792 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:26:54,794 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:26:54,796 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:26:54,799 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:26:58,391 [Worker-19: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:26:58,481 [Worker-19: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:console:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\console\pom.xml.
+2019-04-15 01:26:58,484 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for MultiModuleProject:core:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-15 01:26:58,487 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:26:58,618 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for MultiModuleProject:core:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-15 01:26:58,620 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/core: MultiModuleProject:core:0.0.1-SNAPSHOT with classifier  to /core/target/classes
+2019-04-15 01:26:58,623 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:26:58,625 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:26:58,626 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:26:58,628 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:28:36,703 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:29:34,728 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:37:13,398 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:37:29,989 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:38:54,949 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:41:12,613 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:41:12,684 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:41:12,686 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:41:12,687 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:41:12,689 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:41:44,275 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 01:41:44,351 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:41:44,356 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:41:44,358 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:41:44,362 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:44:33,197 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:44:33,203 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 01:44:33,211 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:44:33,215 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:44:33,224 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:44:33,231 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:44:33,231 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:44:33,236 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:44:43,653 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:44:43,659 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 01:44:43,659 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:44:43,663 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:44:43,675 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:44:43,679 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 01:44:43,683 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 01:44:43,683 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:00:24,884 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:00:24,890 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:00:24,894 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:00:24,897 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:00:24,925 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:00:24,931 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:00:24,932 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:00:24,937 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:00:36,227 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:00:36,231 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:00:36,233 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:00:36,236 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:00:36,244 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:00:36,251 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:00:36,251 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:00:36,256 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:02:21,938 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 10:02:39,085 [Worker-27: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 10:02:39,256 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:02:39,258 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:02:39,260 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:02:39,263 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:02:40,643 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:02:40,648 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:02:40,657 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:02:40,660 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:03:51,371 [Worker-25: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 10:03:51,462 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:03:51,466 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:03:51,468 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:03:51,469 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:04:06,164 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 10:04:06,231 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:04:06,234 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:04:06,237 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:04:06,241 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:05:13,022 [Worker-27: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MultiModuleProject:core:0.0.1-SNAPSHOT @ C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core\pom.xml.
+2019-04-15 10:05:13,099 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:05:13,103 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:05:13,104 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:05:13,106 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:06:33,678 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-04-15 10:06:40,095 [Worker-31: Launching core (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\LongP\eclipse-SpringFramework-workspace\guess-the-number-game\core
+2019-04-15 10:06:40,095 [Worker-31: Launching core (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-04-15 10:06:40,297 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:06:40,298 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:06:40,302 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:06:40,306 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:09:44,790 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:09:44,797 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:09:44,799 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:09:44,803 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:09:45,906 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:09:45,913 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:09:45,914 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:09:45,921 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:10:14,652 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:10:14,657 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:10:14,660 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:10:14,663 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:10:15,695 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:10:15,699 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:10:15,702 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:10:15,705 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:14:50,666 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:14:50,678 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:14:50,680 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:14:50,684 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:15:56,168 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-15 10:16:39,464 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:16:39,476 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:16:39,539 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:16:39,544 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:16:54,812 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:16:54,821 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:16:54,823 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:16:54,826 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:17:03,955 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:17:03,959 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:17:03,962 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:17:03,966 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:17:55,557 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:17:55,560 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:17:55,563 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:17:55,566 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:18:08,598 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:18:08,600 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:18:08,602 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:18:08,605 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:18:41,526 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:18:41,531 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:18:41,534 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:18:41,538 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:18:55,987 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:18:55,993 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:18:55,996 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:18:56,000 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:19:14,110 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:19:14,115 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:19:14,120 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:19:14,125 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:19:26,328 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:19:26,334 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:19:26,336 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:19:26,339 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:19:36,607 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:19:36,611 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:19:36,613 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:19:36,616 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:20:21,685 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:20:21,688 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:20:21,690 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:20:21,694 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-15 10:50:16,794 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:50:16,798 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-15 10:50:16,801 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-15 10:50:16,807 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

@@ -23,4 +23,8 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
     <fullyQualifiedTypeName name="spring.numberguessgame.core.configuration.MinNumber"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="spring.numberguessgame.core.configuration.GameConfig"/>
+    <fullyQualifiedTypeName name="spring.numberguessgame.core.configuration.GuessCount"/>
+    <fullyQualifiedTypeName name="lombok.extern.slf4j.Slf4j"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
 </qualifiedTypeNameHistroy>
