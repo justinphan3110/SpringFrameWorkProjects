@@ -1,0 +1,32 @@
+package spring.numberguessgame.core;
+
+import java.util.Random;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+import lombok.Getter;
+import spring.numberguessgame.core.configuration.MaxNumber;
+import spring.numberguessgame.core.configuration.MinNumber;
+
+@Component
+public class NumberGeneratorImpl implements NumberGenerator {
+	// == Fields== 
+	private final Random random = new Random();
+	@Getter private  final int MAX ;
+	@Getter private  final int MIN;
+	
+	@Autowired
+	public NumberGeneratorImpl(@MaxNumber int MAX, @MinNumber int MIN) {
+		super();
+		this.MAX = MAX;
+		this.MIN= MIN;
+	}
+
+	@Override
+	public int next() {
+		return random.nextInt(MAX - MIN) * MIN;
+	}
+
+
+}
