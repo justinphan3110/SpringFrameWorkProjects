@@ -29,4 +29,7 @@
 <fullyQualifiedTypeName name="spring.numberguessgame.core.configuration.MaxNumber"/>
 <fullyQualifiedTypeName name="spring.numberguessgame.core.configuration.MinNumber"/>
 <fullyQualifiedTypeName name="lombok.Getter"/>
+<fullyQualifiedTypeName name="org.springframework.web.WebApplicationInitializer"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletRegistration"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletRegistration.Dynamic"/>
 </qualifiedTypeNameHistroy>
