@@ -3,7 +3,8 @@
 ## WebConfig and WebAppInitializer (Servlet Dispather) set up
 
 #### WebConfig
-![image](https://user-images.githubusercontent.com/44376091/56478510-f411af00-647d-11e9-9b73-35efca08bf95.png)
+
+![image](https://user-images.githubusercontent.com/44376091/56479613-4eae0980-6484-11e9-807a-b180ccd397ef.png)
 
 #### Servlet Dispatcher in WebAppInitializer 
 
