@@ -17,6 +17,7 @@ public class WebConfig  {
 	public static final String PREFIX = "/WEB-INF/view/";
 	public static final String SUFFIX = ".jsp";
 	
+	// == View Resolver Set Up ==
 	@Bean
 	public ViewResolver viewResolver() {
 		UrlBasedViewResolver viewResolver = new InternalResourceViewResolver();

@@ -27,6 +27,7 @@ public class DemoController {
 		log.info("Model {}", model);
 	}
 	
+	// Add Attribute directly into 
 	@ModelAttribute("welcomeMessage")
 	public String welcomeMessage() {
 		log.info("Welcome Message run");
