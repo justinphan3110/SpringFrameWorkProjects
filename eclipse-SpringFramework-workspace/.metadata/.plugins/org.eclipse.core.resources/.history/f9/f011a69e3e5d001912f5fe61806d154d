@@ -1,9 +1,0 @@
-package spring.numberguessgame.core.configuration;
-
-import org.springframework.context.annotation.Configuration;
-
-@Configuration
-public class GameConfig {
-	// == Fields == 
-	private int max
-}

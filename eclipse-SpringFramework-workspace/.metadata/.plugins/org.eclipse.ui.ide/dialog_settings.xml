@@ -6,7 +6,7 @@
 		<item value="C:\Users\LongP\Downloads\Source-code-New-Spring-5-Logging-with-SLF4J-&amp;-Logback-Using-Logging-with-Logback\hello-maven"/>
 	</list>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.m2e.core.wizards.Maven2ModuleWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.eclipse.m2e"/>
 		</list>

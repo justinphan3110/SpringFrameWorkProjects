@@ -1,5 +1,0 @@
-package spring.numberguessgame.core.configuration;
-
-public @interface GuessCount {
-
-}

@@ -1,7 +1,0 @@
-package Spring.game.co;
-
-public interface MessageGenerator {
-	String getMainMessage();
-	String getResultMessage();
-
-}
