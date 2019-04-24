@@ -36,4 +36,12 @@
 <fullyQualifiedTypeName name="org.springframework.web.servlet.ViewResolver"/>
 <fullyQualifiedTypeName name="org.springframework.web.servlet.view.UrlBasedViewResolver"/>
 <fullyQualifiedTypeName name="jdk.internal.jline.internal.Log"/>
+<fullyQualifiedTypeName name="todolist.config.WebConfig"/>
+<fullyQualifiedTypeName name="todolist.service.DemoService"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="lombok.NonNull"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Method"/>
 </qualifiedTypeNameHistroy>

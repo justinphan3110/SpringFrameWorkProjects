@@ -10,6 +10,7 @@ import org.springframework.web.servlet.DispatcherServlet;
 
 import lombok.extern.slf4j.Slf4j;
 
+// == Web Initializer Don't Change ==
 @Slf4j
 public class WebAppInitializer implements WebApplicationInitializer {
 
